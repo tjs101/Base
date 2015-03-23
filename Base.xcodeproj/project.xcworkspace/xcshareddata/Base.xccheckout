@@ -10,29 +10,31 @@
 	<string>Base</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>429c06e7-acf5-4b09-afcf-57bea1ce5d89</key>
-		<string>http://code.taobao.org/svn/QBase</string>
+		<key>29A06DDD26F389D38D13AE74BFE3E115381FA71D</key>
+		<string>https://github.com/tjs101/Base.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>trunk/Base.xcodeproj</string>
+	<string>Base.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>429c06e7-acf5-4b09-afcf-57bea1ce5d89</key>
-		<string>../../..</string>
+		<key>29A06DDD26F389D38D13AE74BFE3E115381FA71D</key>
+		<string>../..</string>
 	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tjs101/Base.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>429c06e7-acf5-4b09-afcf-57bea1ce5d89</string>
+	<string>29A06DDD26F389D38D13AE74BFE3E115381FA71D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>429c06e7-acf5-4b09-afcf-57bea1ce5d89</string>
+			<string>29A06DDD26F389D38D13AE74BFE3E115381FA71D</string>
 			<key>IDESourceControlWCCName</key>
-			<string>QBase</string>
+			<string>Base</string>
 		</dict>
 	</array>
 </dict>

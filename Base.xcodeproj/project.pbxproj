@@ -70,7 +70,7 @@
 		94965F881AB19026003E2FD4 /* UIScrollView+SVInfiniteScrolling.m in Sources */ = {isa = PBXBuildFile; fileRef = 94965F851AB19026003E2FD4 /* UIScrollView+SVInfiniteScrolling.m */; };
 		94965F891AB19026003E2FD4 /* UIScrollView+SVPullToRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = 94965F871AB19026003E2FD4 /* UIScrollView+SVPullToRefresh.m */; };
 		94965F8E1AB190A4003E2FD4 /* QBLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 94965F8D1AB190A4003E2FD4 /* QBLabel.m */; };
-		94965F921AB19232003E2FD4 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 94965F911AB19232003E2FD4 /* Reachability.m */; };
+		94965F921AB19232003E2FD4 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 94965F911AB19232003E2FD4 /* Reachability.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		94965F951AB19255003E2FD4 /* QBGlobal.m in Sources */ = {isa = PBXBuildFile; fileRef = 94965F941AB19255003E2FD4 /* QBGlobal.m */; };
 		94965F981AB192C9003E2FD4 /* NSString+Util.m in Sources */ = {isa = PBXBuildFile; fileRef = 94965F971AB192C9003E2FD4 /* NSString+Util.m */; };
 /* End PBXBuildFile section */
