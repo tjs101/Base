@@ -31,4 +31,8 @@
 + (void)endLogPageView:(NSString *)viewName;
 + (void)event:(NSString *)eventId;
 
+//判断是否为模拟器
++ (BOOL)targetSimulator;
+
+
 @end

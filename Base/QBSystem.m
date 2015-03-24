@@ -70,4 +70,13 @@
     [MobClick event:eventId];
 }
 
++ (BOOL)targetSimulator
+{
+#if TARGET_IPHONE_SIMULATOR
+    return YES;
+#else
+    return NO;
+#endif
+}
+
 @end
